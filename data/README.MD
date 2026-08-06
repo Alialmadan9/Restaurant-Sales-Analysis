@@ -2,7 +2,7 @@
 
 The original sales dataset is not included in this repository because it contains business data.
 
-Instead, this folder contains images illustrating the data before and after the cleaning process.
+Instead, this folder contains images illustrating sample of the data before and after the cleaning process.
 
 ## Contents
 
